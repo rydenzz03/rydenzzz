@@ -1,0 +1,21 @@
+{
+  "name": "wa-bot-multifunc",
+  "version": "1.0.0",
+  "description": "Multifunction WhatsApp bot for Termux or CMD with OpenAI integration.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "qrcode-terminal": "^0.12.0",
+    "dotenv": "^16.0.3",
+    "openai": "^4.9.0",
+    "axios": "^1.4.0",
+    "ytdl-core": "^4.9.1",
+    "node-fetch": "^3.3.2"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
